@@ -4,6 +4,7 @@ RailSafar is an innovative project designed to bridge the communication gap at r
 
 ## Demo
 [![RailSafar Demonstration Video SIH 2023](https://img.youtube.com/vi/QZ5JS3FgVB8/0.jpg)](https://www.youtube.com/watch?v=QZ5JS3FgVB8)
+Click to play the video
 
 ## Key Features of RailSafar:
 
